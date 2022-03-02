@@ -1,4 +1,5 @@
 # Day-Planner
+Diployed link: https://alldeus.github.io/Day-Planner/
 
 Create an simple app that uses bootstrap, jquery, moment.js
 App is a simple day scheduler of typical working hours in a day.
